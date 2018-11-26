@@ -1,2 +1,2 @@
 # Reinforcement learning - Open AI - Pong - PyTorch
-Learning to Play Pong Using the DQN Algorithm
+Learning to play Pong using the DQN algorithm
